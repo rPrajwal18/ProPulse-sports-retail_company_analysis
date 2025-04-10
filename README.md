@@ -25,7 +25,7 @@ Prior to begining of analysis, a variety of checks were conducted for familiariz
 ## Executive Summary
 
 ### Overview of Findings
-- The analysis is based on a dataset of 100,000 records, providing insights into  ProPulse's various product line, customer segments, understanding their impact on sales and revenue over 4 years. This information was visualized into two table reorts of Customer report and Product report, revealed key insights into how sales trends across the range, what products are top performers, and patterns of recency over time. The analysis shows that Max profit year was 2013 where 1,63,44,878 number of products were sold with notable spikes during Q4 due to holidays and gifting seasons. There has also been a steady decline in performance post 2013.
+- The analysis is based on a dataset of 100,000 records, providing insights into  ProPulse's various product line, customer segments, understanding their impact on sales and revenue over 4 years. This information was visualized into two tables of Customer report and Product report, revealed key insights into how sales trends across the range, what products are top performers, and patterns of recency over time. The analysis shows that Max profit year was 2013 where 1,63,44,878 number of products were sold with notable spikes during Q4 due to holidays and gifting seasons. There has also been a steady decline in performance post 2013.
 - Successful performing category is Bikes which sold whole 96% of our prodcuts line and holding 30% of total customer percent. ProPulse can benefit from expanding the other two product segments by adding more products lines to accessories and clothing, optimizing quality control, customer satisfaction to increase customer purchase value. Targeted growth in cost ranges of below 100 and 100-500, along with improvements to online payment capabilities (UPI), will strengthen ProPulse's market position and drive sustainable growth.
 
 ![Year on Year aggregated image](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/306f4b68cdca6801b40ec9547118b65d184d1947/images/yoy-performance_analysis.png)
@@ -39,14 +39,14 @@ Prior to begining of analysis, a variety of checks were conducted for familiariz
 
 ![change over time](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/306f4b68cdca6801b40ec9547118b65d184d1947/images/change_over_time.png)
 
-![proportional analysis by customers](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/306f4b68cdca6801b40ec9547118b65d184d1947/images/proportional_analysis_by_customers.png)
-
 ### Product Level Performance
 - The VIP Customers of age group Above 50 has customer percent of 29%.
 - More purchases in Bikes category has almost 96% of product share.
 - Most sold two products being the Road-150 Red and Mountain-100 Black, Mountain-200 Black has 30% sold over total revenue and Average order revenue of 3300+.
 
 ![proportional analysis by category](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/306f4b68cdca6801b40ec9547118b65d184d1947/images/proportional_analysis_per_category.png)
+
+![proportional analysis by customers](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/306f4b68cdca6801b40ec9547118b65d184d1947/images/proportional_analysis_by_customers.png)
 
 ## Recommendations
 
