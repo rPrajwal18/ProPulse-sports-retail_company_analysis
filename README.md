@@ -51,7 +51,7 @@ Prior to begining of analysis, a variety of checks were conducted for familiariz
 ## Recommendations
 
 ### Maximizing Product Offerings:
-- **Expand High-Performing Item Types**: Increase item line variations in ProPulse other two product segments by adding more products lines to accessories and clothing to meet diverse customer needs by driving repeat purchases and solidifying market presence.
+- **Expand High-Performing Item Types**: Increase item line variations in ProPulse other two product segments by adding more products lines to accessories and clothing to meet diverse customer needs by driving repeat purchases and solidifying market presence. Optimize inventory around peak-selling product categories during Q2 and Q4.
 - **Optimize Item Pack**: Optimize by bundle it with gift items, or offer as a promotional offers to increase average order value (AOV) and sales contribution.
 
 ### Categorical Growth Strategies:
