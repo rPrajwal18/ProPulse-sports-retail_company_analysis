@@ -1,7 +1,7 @@
 # ProPulse Sports Retail company analysis
 
 ## Project Background
-ProPulse a medium-sized sports retail company, specializing in products such as bikes, accessories, and clothing, containing over 90k records, over 4 years was looking to gain deeper insights into their sales performance and growth, customer segmentation and recency, and product segmentation, performance and growth and profitability drivers to drive data-informed decisions.
+ProPulse a medium-sized sports retail company, specializing in products such as bikes, accessories, and clothing, containing over 100k records, over 4 years was looking to gain deeper insights into their sales performance and growth, customer segmentation and recency, and product segmentation, performance and growth and profitability drivers to drive data-informed decisions.
 
 Key business objectives:
 - Identify key revenue drivers and growth trends.
@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 - **Sales Trend Analysis**: Evaluation of sales patterns of Y-O-Y, cummulative analysis and proportional analysis and data-segmantaion analysis.
 - **Product Level Performance**: An analysis of ProPulse various product line and segments, understanding their impact on sales and sales percent.
 
-Targed SQL queries regarding various granular kpi's can be found [here](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/tree/306f4b68cdca6801b40ec9547118b65d184d1947/sql).
+Targeted SQL queries regarding various granular kpi's can be found [here](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/tree/306f4b68cdca6801b40ec9547118b65d184d1947/sql).
 
 ## Data Structure & Initial Checks
 ProPulse's database as seen below consists of three tables dim_products, dim_customers and fact_sales, with a total row count of 100,000 records.
@@ -59,3 +59,7 @@ Prior to begining of analysis, a variety of checks were conducted for familiariz
 
 ### Customer Growth and Retention:
 - **Boost Repeat Purchases**: Target single-purchase customers with personalized re-engagement and converting the New customers to VIP by introduce tiered offers and rewards  within the Premium product category and loyalty program to incentivize frequent purchases and improve retention.
+
+## General Info
+- Can access the glimple of Product Report table [here](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/6eba1dc5e96ca8dd05e6879a437f7fdbbf9c31a5/images/product_report.png) and its targeted SQL queries [here](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/6eba1dc5e96ca8dd05e6879a437f7fdbbf9c31a5/sql/product_report.sql)
+- Can access glimple of Customer Reprt table [here](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/6eba1dc5e96ca8dd05e6879a437f7fdbbf9c31a5/images/customer_report.png) and its targeted SQL queries [here](https://github.com/rPrajwal18/ProPulse-sports-retail_company_analysis/blob/6eba1dc5e96ca8dd05e6879a437f7fdbbf9c31a5/sql/customer_report.sql)
